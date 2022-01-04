@@ -1,1 +1,2 @@
-Pedro está aprendendo a usar o git
+Pedro está aprendendo a usar o GIT
+Estou alterando
